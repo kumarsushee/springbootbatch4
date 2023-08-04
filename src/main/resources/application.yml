@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active:
+    - local
+    
+    
+allow:  
+   -          
+    poll-frequency: 20,
+    timeout: 10,
+    max-retry: 3
+             
+      
